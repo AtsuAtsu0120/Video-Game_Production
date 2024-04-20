@@ -20,6 +20,8 @@ Assets/Plugins/Editor/JetBrains*
 Assets/AssetStoreTools*
 Assets/Sandbox/
 
+Assets/Week02/Assets/
+
 # Visual Studio cache directory
 .vs/
 
