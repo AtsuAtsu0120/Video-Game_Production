@@ -17,10 +17,6 @@ Assets/Plugins/Editor/JetBrains*
 [Bb]uilds/
 [Uu]serSettings/
 [Ll]ogs/
-Assets/AssetStoreTools*
-Assets/Sandbox/
-
-Assets/Week02/Assets/
 
 # Visual Studio cache directory
 .vs/
